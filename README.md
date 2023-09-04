@@ -1,4 +1,4 @@
-# Coffee Shop Analysis
+# Data Science Job Posting
 
 ## Table of Contents
 + [Project Overview](#Project-overview)
@@ -8,7 +8,7 @@
 + [Source](#Source)
 
 ## Project Overview
- Excel-based Data Science Job Posting on Glassdoor. This project focuses on cleaning and transforming a dataset to prepare it for analysis.
+ An Excel-based analysis of job postings scraped from Glassdoor. This project focuses on cleaning and transforming a dataset to prepare it for analysis.
  
 ## Technologies Used
 + Excel
