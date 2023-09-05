@@ -17,7 +17,7 @@
 1. Take a quick look to understand its structure
 2. Check for empty cells
 3. Check for any duplicate
-4. Clean and create new columns using text to columns method
+4. Clean using power query and create new columns using text to columns method
 5. Fill in new columns using If, SEARCH, ISNUMBER functions
 6. Finally create pivot tables to summarize the data 
 
