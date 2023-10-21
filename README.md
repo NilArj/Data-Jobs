@@ -3,15 +3,20 @@
 ## Table of Contents
 + [Project Overview](#Project-overview)
 + [Technologies Used](#Technologies-Used)
++ [Project Problem](#Project-Problem)
 + [Project Walkthrough](#Project-Walkthrough)
++ [Project Insights](#Project-Insights)
 + [Screenshots](#Screenshots)
 + [Source](#Source)
 
 ## Project Overview
- An Excel-based analysis of job postings scraped from Glassdoor. This project focuses on cleaning and transforming a dataset to prepare it for analysis.
+This project involves an in-depth Excel-based analysis of job postings scraped from Glassdoor. The primary focus of this project is on data cleaning and transformation to prepare the dataset for analysis. The ultimate goal is to gain insights into the skills required for a data analyst role.
  
 ## Technologies Used
 + Excel
+
+## Project Problem
+The problem addressed in this project is to extract meaningful insights from a dataset of job postings. The key challenge is to determine the essential skills and qualifications needed for a data analyst role based on the job descriptions provided.
 
 ## Project Walkthrough
 1. Take a quick look to understand its structure
@@ -21,6 +26,9 @@
 5. Fill in new columns using If, SEARCH, ISNUMBER functions
 6. Finally create pivot tables to summarize the data 
 
+## Project  Insights
+- After creating pivot tables and analyzing the data, the following insights were gained:
+   - The top four most mentioned technical skills in data analyst job postings are: SQL, Excel, Python, Tableau
 
 ## Screenshots
 <div style="display: flex; flex-direction: row;">
