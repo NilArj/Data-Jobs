@@ -28,11 +28,13 @@ The problem addressed in this project is to extract meaningful insights from a d
 
 ## Project  Insights
 - After creating pivot tables and analyzing the data, the following insights were gained:
-   - The top four most mentioned technical skills in data analyst job postings are: SQL, Excel, Python, Tableau
+   - The top four most mentioned technical skills in data analyst job postings are: SQL, Excel, Python, Tableau. [Dashboard Link](https://public.tableau.com/app/profile/nilvia.arjona/viz/Skillsetfordatascienceroles/Dashboard1)
 
 ## Screenshots
 <div style="display: flex; flex-direction: row;">
   <img  style="margin-bottom: 10px;" src="https://github.com/NilArj/Data-Jobs/blob/0e6ec554ba1135d4b926344b3d659ac00fe43963/Images/Captura%20de%20pantalla%202023-08-24%20215536.png" alt="visualization insights" width="600" height="280">
+ <img  style="margin-bottom: 10px;" src="https://github.com/NilArj/Data-Jobs/blob/77fd9d5200cc7404a379ce2f2fc26a2784d0ca50/Images/Captura%20de%20pantalla%202023-10-22%20135154.png" alt="visualization insights" width="600" height="280">
+  
 
 </div>
 
